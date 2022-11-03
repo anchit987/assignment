@@ -1,3 +1,5 @@
+<?php
+?>
 <html>
 <head>
 <title>Profile Page</title>
@@ -8,6 +10,5 @@
 Picture" width="300" height="300"></a>
 <h4>Full Name : Anchit Gangrade</h4>
 <h4>Email : anchit988@gmail.com</h4>
-<h4>College : SGSITS Indore</h4>
 </body>
 </html>
